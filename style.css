@@ -1,0 +1,6 @@
+@media only screen and (min-device-width : 320px)
+and (max-device-width : 480px) {
+  .tablesaw-stack tbody tr:not(:last-child) {
+    border-bottom: 2px solid #0B0B0D;
+  }
+}
